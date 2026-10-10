@@ -1,3 +1,4 @@
+
 # ESP32_CustomBoard
 
 This is a ESP32 custom board project that i made/i am making for Half Life by Hack club 
@@ -9,7 +10,7 @@ It features a enclosure too
 
 <img width="1140" height="608" alt="Screenshot 2026-10-10 172143" src="https://github.com/user-attachments/assets/829c71d4-16ac-49fd-af68-9e5c4b737499" />
 
-
+<img width="1920" height="1080" alt="PCB" src="https://github.com/user-attachments/assets/ce05d2b9-3c9e-4fad-bf28-c16322cc67d1" />
 
 Schematics:
 
