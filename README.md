@@ -7,6 +7,10 @@ This Board uses the ESP32-S3-WROOM1-N8 as the microcontroller and it  featuresan
 It features a enclosure too
 
 
+<img width="1140" height="608" alt="Screenshot 2026-10-10 172143" src="https://github.com/user-attachments/assets/829c71d4-16ac-49fd-af68-9e5c4b737499" />
+
+
+
 Schematics:
 
 <img width="1090" height="846" alt="Screenshot 2026-10-09 182135" src="https://github.com/user-attachments/assets/a33eb0b2-09f9-40de-a561-9a1755dd1c02" />
