@@ -14,7 +14,6 @@ It features a enclosure too
 
 
 
-BOM:
 
 Schematics:
 
