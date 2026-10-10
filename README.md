@@ -2,7 +2,8 @@
 
 This is a ESP32 custom board project that i made/i am making for Half Life by Hack club 
 
-This Board uses the ESP32-S3-WROOM1-N8 as the microcontroller and it will feature an app on windows that lets you turn on a led and off..
+This Board uses the ESP32-S3-WROOM1-N8 as the microcontroller and it  featuresan app on windows that lets you turn on a led and off..
+
 It features a enclosure too
 
 
@@ -23,7 +24,8 @@ Model:
 
 
 
-PCB (for now) 
+PCB :
 
 
 <img width="1005" height="617" alt="image" src="https://github.com/user-attachments/assets/4f10ef97-c77e-4e3e-b1ae-0791e5039417" />
+<img width="1000" height="583" alt="image" src="https://github.com/user-attachments/assets/5040c754-7a17-45c7-9496-ece65a09dabe" />
