@@ -1,7 +1,10 @@
+
+const int LED_PIN = 48;
+
 void setup(){
 
   Serial.begin(115200);
-
+  pinMode(LED_PIN, OUTPUT);
 }
 
 void loop(){
@@ -9,8 +12,8 @@ void loop(){
   if(Serial.available()){
 
     char r = Serial.read();
-    if(r == '1') neopixelWrite(48, 0, 40, 0);
-    else if(r == '0')neopixelWrite(48, 0, 0, 0);
+    if(r == '1') digitalWrite(LED_PIN, HIGH);
+    else if(r == '0') digitalWrite(LED_PIN, LOW);
 
   }
 
