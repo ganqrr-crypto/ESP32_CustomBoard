@@ -700,7 +700,7 @@
         "uuid": "4d389b1f-f077-4d11-9108-b646ba867d53"
       }
     ],
-    "used_designators": "U1-5,#FLG1-3,R1-10,J1-6,J8,F1,#PWR1-31,C1-7,Q1-2,C1(Tantalum)1-2,D1-3,SW1-3,BZ1",
+    "used_designators": "U1-5,J1-6,J8,#FLG1-3,R1-10,F1,#PWR1-31,C1-7,Q1-2,C1(Tantalum)1-2,D1-3,SW1-3,BZ1",
     "variants": []
   },
   "sheets": [

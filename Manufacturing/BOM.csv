@@ -1,16 +1,16 @@
-Name ,,,Purpose,,Quantity,,Total Cost (USD),,Links,,Vendor
-,,,,,,,,,,,
-10 uF Tantalum Capacitor,,,Capacitors,,4,,"$0,69",,link,,LCSC ELECTRONICS
-22 uF Tantalum,,,Capacitors,,2,,$0.62,,link,,LCSC ELECTRONICS
-ESP32-S3 WROOM-1-N8,,,Microcontroller,,1,,$5.06,,link,,LCSC ELECTRONICS
-0.1uF Capacitor,,,Capacitors,,20,,$0.39,,link,,LCSC ELECTRONICS
-LED ,,,Power Led,,1,,$0.85,,link,,LCSC ELECTRONICS
-USB-C Port,,,Usb Port,,1,,$1.46,,link,,LCSC ELECTRONICS
-Connector 4 Pin,,,Pins,,5,,$0.49,,link,,LCSC ELECTRONICS
-Connector 6 Pin,,,Pins,,19,,$2.50,,link,,LCSC ELECTRONICS
-5.1k Resistors,,,Resistor,,100,,$0.58,,link,,LCSC ELECTRONICS
-10K Resistors,,,Resistor,,100,,$0.36,,link,,LCSC ELECTRONICS
-Buttons,,,RESET and BOOT,,5,,$1.58,,link,,LCSC ELECTRONICS
-ESD,,,ESD,,10,,$0.46,,link,,LCSC ELECTRONICS
-3.3v regulator,,,3.3 Regulation,,5,,$1.09,,link,,LCSC ELECTRONICS
-PCB,,,PCB,,,,,,,,
+Name ,,,Purpose,,Quantity,,Total Cost (USD),,Links,,Vendor,,,,,Shipping Components,,,Total Components + Shipping
+,,,,,,,,,,,,,,,,,,,
+10 uF Tantalum Capacitor,,,Capacitors,,2,,$0.31,,link,,LCSC ELECTRONICS,,,,,$11 + $3.36(Handling Fee),,,$29.61
+22 uF Tantalum,,,Capacitors,,2,,$0.62,,link,,LCSC ELECTRONICS,,,,,,,,
+ESP32-S3 WROOM-1-N8,,,Microcontroller,,1,,$5.06,,link,,LCSC ELECTRONICS,,,,,,,,
+0.1uF Capacitor,,,Capacitors,,20,,$0.39,,link,,LCSC ELECTRONICS,,,,,,,,
+LED ,,,Power Led,,50,,$0.85,,link,,LCSC ELECTRONICS,,,,,,,,
+USB-C Port,,,Usb Port,,1,,$1.46,,link,,LCSC ELECTRONICS,,,,,,,,
+Connector 4 Pin,,,Pins,,5,,$0.49,,link,,LCSC ELECTRONICS,,,,,,,,
+Connector 6 Pin,,,Pins,,19,,$0.38,,link,,LCSC ELECTRONICS,,,,,,,,
+5.1k Resistors,,,Resistor,,100,,$0.58,,link,,LCSC ELECTRONICS,,,,,,,,
+10K Resistors,,,Resistor,,100,,$0.36,,link,,LCSC ELECTRONICS,,,,,,,,
+Buttons,,,RESET and BOOT,,5,,$1.58,,link,,LCSC ELECTRONICS,,,,,,,,
+ESD,,,ESD,,10,,$0.46,,link,,LCSC ELECTRONICS,,,,,,,,
+3.3v regulator,,,3.3 Regulation,,5,,$1.09,,link,,LCSC ELECTRONICS,,,,,,,,
+PCB,,,PCB,,5,,$3.57,,link,,JLCPCB,,,,,,,,

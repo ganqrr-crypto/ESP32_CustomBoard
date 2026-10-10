@@ -13,6 +13,8 @@ int main(){
 
     SetTargetFPS(60);
 
+    std::cout << "Starting" << std::endl;
+
 
     int ClickCount = 0;
     int Roboto1FontSize = 40;
@@ -21,7 +23,7 @@ int main(){
 
     ESP32_Program esp32;
     bool ok = esp32.connect("COM2");
-
+    //Ill Modify the COM Port later when ill get the ESP32
 
     bool isLedOn = false;
     Rectangle LedButton = { 300, 200, 250, 150 };
@@ -53,14 +55,19 @@ int main(){
 
             CloseWindow();
 
+            std::cout << "Exiting" << std::endl;
+
         }
 
         if(isHoveringReconnect && IsMouseButtonPressed(MOUSE_BUTTON_LEFT)){
 
             esp32.connect("COM2");
+            //Same here ill modify the com port later
             esp32.setLed(isLedOn);
             isReconnecting = true;
             ReconnectTimer = 1.0f;
+
+            std::cout << "Trying to reconnect..." << std::endl;
 
         }
     
@@ -127,6 +134,8 @@ int main(){
     }
 
     CloseWindow();
+
+    std::cout << "Exiting" << std::endl;
 
     return 0;
 
