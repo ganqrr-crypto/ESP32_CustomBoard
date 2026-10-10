@@ -27,7 +27,7 @@
 | [3.3v regulator](https://www.lcsc.com/it/product-detail/C6186.html?s_z=s_p_AMS1117-3.3&spm=wm.fly.bg.0.xh&lcsc_vid=EQBeVQJTEVkNBV0CFARdBVdRQVIMUlAHEVMIAQIDRlUxVlNfRlRYV1ZXTlFYXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS) | 3.3 Regulation | 1 | $1.09 | $1.09 | [LCSC ELECTRONICS](https://www.lcsc.com/it/product-detail/C6186.html?s_z=s_p_AMS1117-3.3&spm=wm.fly.bg.0.xh&lcsc_vid=EQBeVQJTEVkNBV0CFARdBVdRQVIMUlAHEVMIAQIDRlUxVlNfRlRYV1ZXTlFYXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhYS) |
 | [PCB](https://jlcpcb.com/?from=VGS&utm_source=google&utm_medium=cpc&utm_campaign=14177189905&gad_source=1&gad_campaignid=14177189905&gbraid=0AAAAABS1QqlZ1YZsNP9vYi9OUwfBtb5kZ&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNZrmVvp8gJchwFTLwkx2ueyKFJtRk-Nd8NooEg_gBM_Vj_AMzzF__8aAhOdEALw_wcB) | PCB | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com/?from=VGS&utm_source=google&utm_medium=cpc&utm_campaign=14177189905&gad_source=1&gad_campaignid=14177189905&gbraid=0AAAAABS1QqlZ1YZsNP9vYi9OUwfBtb5kZ&gclid=Cj0KCQjwxKfWBhDkARIsAMKwkNZrmVvp8gJchwFTLwkx2ueyKFJtRk-Nd8NooEg_gBM_Vj_AMzzF__8aAhOdEALw_wcB) |
 | **Parts subtotal** | — | — | — | **$20.13** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$20.13** | — |
+| **Tax & shipping** | — | — | — | **$13.00** | — |
+| **Total** | — | — | — | **$33.13** | — |
 
-$9.87 left of the tier's funding.
+**$3.13 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
