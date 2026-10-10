@@ -18,3 +18,12 @@ Schematics:
 Model: 
 
 <img width="1091" height="703" alt="image" src="https://github.com/user-attachments/assets/aca25899-9474-41b1-8ab3-7ae84e9eccac" />
+
+
+
+
+
+PCB (for now) 
+
+
+<img width="1005" height="617" alt="image" src="https://github.com/user-attachments/assets/4f10ef97-c77e-4e3e-b1ae-0791e5039417" />
