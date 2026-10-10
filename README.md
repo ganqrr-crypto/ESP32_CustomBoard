@@ -11,3 +11,19 @@ Schematics:
 <img width="1090" height="846" alt="Screenshot 2026-10-09 182135" src="https://github.com/user-attachments/assets/a33eb0b2-09f9-40de-a561-9a1755dd1c02" />
 <img width="1195" height="839" alt="image" src="https://github.com/user-attachments/assets/be9943f2-1c0f-46b1-8d00-5e9ab6337c46" />
 
+
+
+
+
+Model: 
+
+<img width="1091" height="703" alt="image" src="https://github.com/user-attachments/assets/aca25899-9474-41b1-8ab3-7ae84e9eccac" />
+
+
+
+
+
+PCB (for now) 
+
+
+<img width="1005" height="617" alt="image" src="https://github.com/user-attachments/assets/4f10ef97-c77e-4e3e-b1ae-0791e5039417" />
