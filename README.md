@@ -12,6 +12,10 @@ It features a enclosure too
 
 <img width="1920" height="1080" alt="PCB" src="https://github.com/user-attachments/assets/ce05d2b9-3c9e-4fad-bf28-c16322cc67d1" />
 
+
+
+BOM:
+
 Schematics:
 
 <img width="1090" height="846" alt="Screenshot 2026-10-09 182135" src="https://github.com/user-attachments/assets/a33eb0b2-09f9-40de-a561-9a1755dd1c02" />
