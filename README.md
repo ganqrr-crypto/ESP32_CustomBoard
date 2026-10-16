@@ -8,6 +8,9 @@ This Board uses the ESP32-S3-WROOM1-N8 as the microcontroller and it  featuresan
 It features a enclosure too
 
 
+BOM:
+BOM can be found in the folder "Manufacturing"
+
 <img width="1140" height="608" alt="Screenshot 2026-10-10 172143" src="https://github.com/user-attachments/assets/829c71d4-16ac-49fd-af68-9e5c4b737499" />
 
 <img width="1920" height="1080" alt="PCB" src="https://github.com/user-attachments/assets/ce05d2b9-3c9e-4fad-bf28-c16322cc67d1" />
