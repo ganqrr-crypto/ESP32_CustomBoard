@@ -1,7 +1,7 @@
 Name ,,,Purpose,,Quantity,,Total Cost (USD),,Links,,Vendor,,,,,Shipping Components,,,Total Components + Shipping
 ,,,,,,,,,,,,,,,,,,,
-10 uF Tantalum Capacitor,,,Capacitors,,2,,$0.78,,link,,TME,,,,,15.02$ Shipping,,,$
-22 uF Tantalum,,,Capacitors,,2,,$1.01,,link,,TME,,,,,63$ TAX,,,
+10 uF Tantalum Capacitor,,,Capacitors,,2,,$0.78,,link,,TME,,,,,22$ Shipping,,,$51.67
+22 uF Tantalum,,,Capacitors,,2,,$1.01,,link,,TME,,,,,18.77$ TAX,,,
 ESP32-S3 WROOM-1-N8,,,Microcontroller,,1,,$5.30,,link,,TME,,,,,,,,
 0.1uF Capacitor,,,Capacitors,,3,,$0.26,,link,,TME,,,,,,,,
 LED ,,,Power Led,,3,,$0.40,,link,,TME,,,,,,,,
