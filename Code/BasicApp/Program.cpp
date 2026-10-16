@@ -12,7 +12,7 @@ bool ESP32_Program::connect(const std::string& port){
     std::string path = "\\\\.\\" + port;
     HANDLE h = CreateFileA(path.c_str(), GENERIC_READ | GENERIC_WRITE, 0, NULL, OPEN_EXISTING, 0, nullptr);
     if(h == INVALID_HANDLE_VALUE) return false;
-
+    
     DCB dcb{};
     dcb.DCBlength = sizeof(DCB);
     GetCommState(h, &dcb);
