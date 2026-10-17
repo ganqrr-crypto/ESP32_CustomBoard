@@ -1,5 +1,8 @@
 
 # ESP32_CustomBoard
+IMPORTANT NOTES FOR REVIEWER: Go read the file i am saying "reviewer read this" if you are questioning why you see all journals work session. 
+anyways if you don't want to read it and i respect it, says that i am using timelapses and not journals. Have a good day!
+
 
 This is a ESP32 custom board project that i made/i am making for Half Life by Hack club 
 
