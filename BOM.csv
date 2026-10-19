@@ -1,0 +1,16 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+10 uF Tantalum Capacitor,1,TME,$0.78,$0.78,https://www.tme.eu/it/details/t491a106k006at/condensatori-di-tantalio-smd/kemet/
+22 uF Tantalum,1,TME,$1.01,$1.01,https://www.tme.eu/it/details/t491a226k006at/condensatori-di-tantalio-smd/kemet/
+ESP32-S3 WROOM-1-N8,1,TME,$5.30,$5.30,https://www.tme.eu/it/details/esp32s3-wrm1-8/moduli-iot-wifi-bluetooth/espressif/esp32-s3-wroom-1-n8/
+0.1uF Capacitor,1,TME,$0.26,$0.26,https://www.tme.eu/it/details/0805b104k500ct/condensatori-mlcc-smd/walsin/
+LED,1,TME,$0.40,$0.40,https://www.tme.eu/it/details/ltst-c171kgkt/diodi-led-smd-colorati/liteon/
+USB-C Port,1,TME,$1.46,$1.46,https://www.tme.eu/it/details/usb4085-gf-a/connettori-usb-e-ieee-1394/gct/
+Connector 4 Pin,1,TME,$1.89,$1.89,https://www.tme.eu/it/details/ds1002-01-1x04v13/connettore-dell-intestazione-di-pin/connfly/ds1002-01-1-4v13-jk/
+Connector 6 Pin,1,TME,$2.00,$2.00,https://www.tme.eu/it/details/ds1002-01-1x06v13/connettore-dell-intestazione-di-pin/connfly/ds1002-01-1-6v13/
+5.1k Resistors,1,TME,$0.35,$0.35,https://www.tme.eu/it/details/rc0805fr-075k1/resistori-smd/yageo/rc0805fr-075k1l/
+10K Resistors,1,TME,$0.81,$0.81,https://www.tme.eu/it/details/pwr0805-10k-1%25/resistori-smd/viking/pwr05ftew1002/
+Buttons,1,TME,$0.40,$0.40,https://www.tme.eu/it/details/tl3305af160qg/microinterruttori-tact/e-switch/
+ESD,1,TME,$0.27,$0.27,https://www.tme.eu/it/details/usblc6-2sc6-aks/diodi-di-protezione-reti/akyga-semi/aks1201/
+3.3v regulator,1,TME,$0.36,$0.36,https://www.tme.eu/it/details/ld1117as33tr/stabilizzatori-di-tens-non-regol-ldo/stmicroelectronics/
+PCB,1,JLCPCB,$4.00,$4.00,https://jlcpcb.com/
+Estimated total shipping,1,,,$40.77,

@@ -4,13 +4,13 @@
 <!-- Generated: 2026-10-10T17:42:16.842Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmux32uje00jk01notuwkltv6). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom ESP32 board
+> A custom ESP32 board made for me to have a ESP32 for my projects and i added some custom things like the pins to be that plastic instead of the pins
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 16.43h | 11 |
+| Week 1 | Tier 2 | 16.43h | 11 |
 
 ## Contents
 
